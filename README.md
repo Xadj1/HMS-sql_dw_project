@@ -77,11 +77,11 @@ These insights empower healthcare stakeholders to make informed decisions and im
 ---
 
 ### 📂 **Repository Structure**  
- 
+```
 HMS-sql_dw_project/
 
 │
-├── database_diagram/                               #Database diagram Image
+├── database_diagram/                        #Database diagram Image
 ├── requirements/                            # Project requirements
 │   ├── OLTP_Project_DDl.sql/                # Scripts for creating Master table
 │   ├── project_plan/                        # Project plan Step by Step 
@@ -93,11 +93,11 @@ HMS-sql_dw_project/
 │   ├── data_cleaning/                       # Scripts for cleaning and transforming data
 │   ├── stored_procedures/                   # Scripts for creating stored_procedures
 │   ├── views/                               # Scripts for creating views
-├── 
+├
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-
+```
 
 
 ### 📄 **Deliverables**  
