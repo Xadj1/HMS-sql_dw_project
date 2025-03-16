@@ -77,12 +77,27 @@ These insights empower healthcare stakeholders to make informed decisions and im
 ---
 
 ### 📂 **Repository Structure**  
-- **SQL Scripts**: For data cleaning, table creation, and stored procedures.  
-- **Views**: Predefined SQL views for reporting and analytics.  
-- **Documentation**: Database schema, project steps, and challenges.  
-- **Screenshots**: Query outputs and database diagrams.  
+ 
+HMS-sql_dw_project/
 
----
+│
+├── database_diagram/                               #Database diagram Image
+├── requirements/                            # Project requirements
+│   ├── OLTP_Project_DDl.sql/                # Scripts for creating Master table
+│   ├── project_plan/                        # Project plan Step by Step 
+│  
+├── sql_queries/                             # SQL scripts for ETL and transformations
+│   ├── CTEs_windowfunctions_triggers./      # Scripts for creating CTEs_windowfunctions_triggers
+│   ├── constraints_cascade/                 # Scripts for creating constraints and cascade
+│   ├── creating tables/                     # Scripts for creating tables
+│   ├── data_cleaning/                       # Scripts for cleaning and transforming data
+│   ├── stored_procedures/                   # Scripts for creating stored_procedures
+│   ├── views/                               # Scripts for creating views
+├── 
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+
 
 
 ### 📄 **Deliverables**  
