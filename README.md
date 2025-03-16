@@ -45,7 +45,7 @@ This repository is an excellent resource for professionals and students looking 
 ### 🛠️ **Tools Used**  
 Everything is free and beginner-friendly!  
 
-- **SQL Server **: Database server for hosting the HMS database.  
+- **SQL Server**: Database server for hosting the HMS database.  
 - **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with the database.    
 - **MindmapAI**: Design database schema and data flow diagrams.  
 - **Notion**: Project management and documentation.  
